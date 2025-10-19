@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoe_engine.a CMakeFiles/poe_engine.dir/engine.cpp.o CMakeFiles/poe_engine.dir/hardware.cpp.o
+/usr/bin/ranlib libpoe_engine.a
